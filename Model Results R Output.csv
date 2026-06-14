@@ -1,0 +1,7 @@
+"Variable","Coefficient","Odds_Ratio"
+"(Intercept)",0.7413,2.0987
+"months_delayed",0.3646,1.44
+"utilization",-0.2195,0.8029
+"log_limit",-0.2321,0.7928
+"AGE",0.0094,1.0094
+"PAY_0",0.3276,1.3876
