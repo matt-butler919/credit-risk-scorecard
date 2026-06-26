@@ -1,6 +1,6 @@
 Credit Risk Scorecard project
 
-Link to full project - https://docs.google.com/spreadsheets/d/1EoVScUHOOCbYw27qcoee4lglyf9gMSShwA6fbE_ImaI/edit?gid=1848283889#gid=1848283889
+Link to full project - https://docs.google.com/spreadsheets/d/1EoVScUHOOCbYw27qcoee4lglyf9gMSShwA6fbE_ImaI/edit?gid=1528133994#gid=1528133994
 
 Data from UC Irvine - Data from UCI - https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
